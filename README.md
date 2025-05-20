@@ -1,2 +1,3 @@
-# -_-
-модуль 2
+Analysis
+Cosine similarities
+Косинусные сходства
